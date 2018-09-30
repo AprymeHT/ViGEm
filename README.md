@@ -1,7 +1,7 @@
 ![Icon](https://raw.githubusercontent.com/nefarius/ViGEm/master/Installer/favicon.png)
 
 # ATTENTION! We are moving!
-**Hi there. [We're moving to our own organization](https://github.com/ViGEm)!** :smile: 
+**Hi there. [We're moving to our own organization](https://github.com/ViGEm)!** :smile:
 
 **Don't author any pull-requests on this repository as they will be discarded, thank you.**
 
@@ -17,7 +17,6 @@ This repository contains projects related to USB device emulation and HID device
 ### User-mode
 - [ViGEmTester](../../tree/master/Src/Samples/ViGEmTester) - general purpose test application for debugging purposes.
 - [ViGEmTester.NET](../../tree/master/ViGEmTester.NET) - general purpose managed test application for debugging purposes.
-- [x360ce to ViGEm sample application](../../tree/master/Src/Samples/VDX) - sample application adding ViGEm support to [x360ce](https://github.com/x360ce/x360ce).
 - [HidCerberus.Srv](../../tree/master/NET/HidCerberus.Srv) - a Windows Service handling white-listed processes for interaction with `HidGuardian`.
 - [HidCerberus.Lib](../../tree/master/Src/HidCerberus.Lib) - a Windows user-mode library for interaction with `HidCerberus.Srv`.
 - [XInputExtensions](../../tree/master/Src/XInputExtensions) - a Windows user-mode library for interaction with the `XnaGuardian` driver.
