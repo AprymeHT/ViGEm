@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = ".build-net", "build-net\.build-net.csproj", "{F464ACCF-6506-4C16-BB45-BA91C3BE91B4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HidCerberus.Srv", "NET\HidCerberus.Srv\HidCerberus.Srv.csproj", "{0F3E263A-5FF4-4572-AF1B-06E249FABC7D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ViGEm", "ViGEm", "{D28A7A72-91A1-4C11-AE76-FF0D1641E2A7}"
@@ -21,8 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F464ACCF-6506-4C16-BB45-BA91C3BE91B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F464ACCF-6506-4C16-BB45-BA91C3BE91B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F3E263A-5FF4-4572-AF1B-06E249FABC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0F3E263A-5FF4-4572-AF1B-06E249FABC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F3E263A-5FF4-4572-AF1B-06E249FABC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
